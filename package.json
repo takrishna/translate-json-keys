@@ -1,0 +1,15 @@
+{
+  "name": "url_deep_linker",
+  "private": true,
+  "version": "0.0.0",
+  "description": "A Chrome extension which understands the content on the clipboard, automatically weaves a deep linked URL and navigates to it on the newly opened tab.",
+  "repository": "https://github.com/takrishna/auto-open-deep-link-url",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-terser": "^1.2.0",
+    "monaco-editor": "latest"
+  }
+}
